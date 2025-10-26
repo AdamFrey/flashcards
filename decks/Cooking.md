@@ -4,7 +4,7 @@ A: 165°F
 Q: What is the safe internal temperature for Ground Meats?
 A: 160°F
 
-Q: What is the safe internal temperature for Brisket, Pork Ribs, and Shoulders?
+Q: What is the safe internal temperature range for Brisket, Pork Ribs, and Shoulders?
 A: 190-205°F
 
 Q: What is the internal temperature for Beef, Veal & Lamb cooked Rare?
@@ -74,26 +74,43 @@ Q: Why shouldn't you bother soaking BBQ wood?
 A: The water doesn't actually enter the wood
 
 Q: What are good woods for smoking pork?
-A: Apple, oak, hickory
+A:
+- Apple
+- Oak
+- Hickory
 
 Q: What is lean meat?
 A: Meat that is mostly muscle
 
 Q: What are three liquids commonly used in a braise or stew?
-A: Wine, stock, or water
+A: 
+- Wine
+- stock
+- water
 
 Q: What is the first step to prepare a braise or stew?
 A: Season the meat with salt and pepper, preferably a day in advance
 
 Q: What two things distinguish a braise from a stew?
-A: Larger pieces of meat, typically still on the bone, less liquid
+A: 
+- Larger pieces of meat, typically still on the bone
+- less liquid
 
 Q: What two things distinguish a stew from a braise?
-A: Smaller pieces of meat, more liquid
+A: 
+- Smaller pieces of meat, often chunked
+- more liquid
 
-Q: What is "deglazing the pan"?
-A: Scraping up crusty brown bits stuck to the bottom of the pan
+C: Scraping up crusty brown bits stuck to the bottom of the pan is called [deglazing].
 
 C: Alice Waters says "chicken stock works with [any meat] and [even some fish]"
 
 C: The essence of braising and stewing meat is [long, slow, gentle cooking] with [moist heat] in [a small amount of liquid] in [a covered pot].
+
+Q: Ingredients in Prague Powder #1?
+A:
+- Salt
+- Sodium Nitrate
+- Red Dye
+
+C: Saltpeter is [Potassium Nitrate].
