@@ -16,7 +16,8 @@ Q: What is the capital of France?
 A: Paris
 ```
 
-Both questions and answers can span multiple lines for longer content.
+Both questions and answers can span multiple lines for longer content. However,
+ideally answers should be three words or fewer.
 
 ### Cloze Deletion Cards
 ```markdown
@@ -24,6 +25,11 @@ C: [Paris] is the capital of [France].
 ```
 
 Cloze cards use square brackets `[...]` to mark the parts that will be hidden during review.
+
+Cloze cards are great for any question that is bidirectional, because you will
+be presented to review each hidden section on their own. For this reason any
+question that can be written succinctly and clearly using the Cloze style should
+be preferred.
 
 ### LaTeX Support
 - Inline math: `$...$`
@@ -37,7 +43,7 @@ Image paths are relative to the repository root, not the individual markdown fil
 
 ## File Organization
 
-- **Deck files**: Markdown files in the root directory (e.g., `Geography.md`, `Birthdays.md`)
+- **Deck files**: Markdown files in the decks directory (e.g., `Geography.md`, `Birthdays.md`)
 - **Database**: `hashcards.db` stores card performance data and review scheduling
 - **Macros**: Optional `macros.tex` for LaTeX definitions
 - **Images**: Store in an `images/` directory at the root
@@ -54,7 +60,3 @@ Image paths are relative to the repository root, not the individual markdown fil
 - Modifying card content creates a new card (due to content hashing)
 - The old card's review history becomes orphaned
 - Be mindful when editing to preserve learning progress
-
-## Migration Notes
-
-The `Birthdays/` directory contains old-format flashcards that need migration to the new hashcards format. These should be consolidated into a single `Birthdays.md` file in the root directory using the Q&A format.
