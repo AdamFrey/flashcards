@@ -58,7 +58,7 @@ C: 160 kg is [352] lb
 
 C: 170 kg is [375] lb
 
-C: 100 lbs is [43] kg
+C: 100 lbs is [45] kg
 
 C: 200 lbs is [91] kg
 
