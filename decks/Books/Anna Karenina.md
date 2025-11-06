@@ -30,3 +30,10 @@ A: Farming/mowing
 
 Q: In Anna Karenina, what war does Vronsky volunteer for after Anna's death?
 A: Russo-Turkish War
+
+C: The story of Anna Karenina starts in [1872]
+
+C: The story of Anna Karenina ends in [1876]
+
+Q: In what years does the story of Anna Karenina occur?
+A: 1872-1876
