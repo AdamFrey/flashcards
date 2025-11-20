@@ -60,8 +60,7 @@ C: In The Iliad, [Achilles] refuses to return despite [Agamemnon]'s offers
 
 C: In The Iliad, [Achilles] fights the river god [Scamander]
 
-Q: In The Iliad, which god supports the Greeks alongside Minerva?
-A: Neptune/Poseidon
+C: In The Iliad, Neptune/Poseidon supports [the Greeks].
 
 C: In The Iliad, [Diana/Artemis] is [Apollo]'s sister and also supports the [Trojans]
 
@@ -69,3 +68,12 @@ C: In The Iliad, [Apollo] gives [Hector] supernatural strength at times
 
 Q: In The Iliad, what city will fall as the main subject of the epic?
 A: Troy/Ilium
+
+Q: Who foretells Achilles death to him?
+A: his horse
+
+C: In the Iliad, Mars supported the [Trojans]
+
+C: [Thetis] is the daughter of [Nereus], [The old man of the Sea]
+
+C: [Achilles], son of [Peleus]

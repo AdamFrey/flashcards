@@ -157,3 +157,21 @@ A: A focal point of attention and admiration.
 Q: spavined
 A: Lame, old, worn-out.
 
+Q: convivial
+A: relating to, occupied with, or fond of feasting, drinking, and good company
+
+Q: sybaritic
+A: fond of sensuous luxury or pleasure 
+
+Q: abjure
+A: solemnly renounce
+
+Q: _sine qua non_
+A: an essential condition
+
+Q: peripatetic
+A: traveling from place to place
+
+Q: concomitant
+A: naturally accompanying or associated
+
