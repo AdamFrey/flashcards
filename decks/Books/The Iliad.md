@@ -77,3 +77,9 @@ C: In the Iliad, Mars supported the [Trojans]
 C: [Thetis] is the daughter of [Nereus], [The old man of the Sea]
 
 C: [Achilles], son of [Peleus]
+
+Q: How does the fight between Achilles and Hector begin?
+A: Achilles chases Hector around Troy three times
+
+Q: What does Achilles do with Hector's body
+A: Drags it behind his chariot
