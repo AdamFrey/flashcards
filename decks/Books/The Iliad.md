@@ -74,7 +74,7 @@ A: his horse
 
 C: In the Iliad, Mars supported the [Trojans]
 
-C: [Thetis] is the daughter of [Nereus], [The old man of the Sea]
+C: [Thetis] is the daughter of [Nereus], The [old man of the Sea]
 
 C: [Achilles], son of [Peleus]
 

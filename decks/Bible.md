@@ -1,20 +1,6 @@
-Q: Isaiah 45:22-23
-A:
-“Turn to me and be saved,
-    all the ends of the earth!
-    For I am God, and there is no other.
+C: [Turn to me and be saved], [all the ends of the earth]! [For I am God, and there is no other].
 
-By myself I have sworn;
-    from my mouth has gone out in righteousness
-    a word that shall not return:
-‘To me every knee shall bow,
-    every tongue shall swear allegiance.’
-    
-C: “Turn to me and be saved,
-    [all the ends of the earth!]
-    [For I am God, and there is no other].
-
-By myself I have sworn;
+[By myself I have sworn];
     from [my mouth has gone out in righteousness]
     a [word that shall not return]:
 ‘[To me every knee shall bow],
@@ -27,6 +13,9 @@ A: Whoever believes in me, as the Scripture has said, 'Out of his heart will flo
 
 C: Whoever believes in me, as the Scripture has said, 'Out of his heart will flow rivers of living water.'
 — [John] [7]:[38]
+
+C: And when they had called in the apostles, [they beat them and charged them not to speak in the name of Jesus, and let them go.] Then they [left the presence of the council, rejoicing that they were counted worthy to suffer dishonor for the name].
+— [Acts 5]:[40-41]
 
 Q: Romans 1:16-17
 A: For I am not ashamed of the gospel,
