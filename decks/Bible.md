@@ -14,7 +14,7 @@ A: Whoever believes in me, as the Scripture has said, 'Out of his heart will flo
 C: Whoever believes in me, as the Scripture has said, 'Out of his heart will flow rivers of living water.'
 — [John] [7]:[38]
 
-C: And when they had called in the apostles, [they beat them and charged them not to speak in the name of Jesus, and let them go.] Then they [left the presence of the council, rejoicing that they were counted worthy to suffer dishonor for the name].
+C: And when they had called in the apostles, [they beat them and charged them not to speak in the name of Jesus, and let them go.] Then they left [the presence of the council, rejoicing that they were counted worthy to suffer dishonor for the name].
 — [Acts 5]:[40-41]
 
 Q: Romans 1:16-17
