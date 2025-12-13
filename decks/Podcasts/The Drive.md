@@ -16,3 +16,10 @@ A: 10-15%
 
 Q: Difference between PPO Insurance vs. HMO
 A: PPO offers more choice, less penalty for going out of network
+
+Q: Dom D'Agostino's everyday keto foods
+A: 
+- Berries
+- Broccoli
+- Asparagus
+- Dark Chocolate
