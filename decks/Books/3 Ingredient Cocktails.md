@@ -6,8 +6,8 @@ A:
 
 Q: Rich Simple Syrup Recipe
 A:
-- 1 cup sugar 
-- ½ cup water 
+- 1 cup sugar
+- ½ cup water
 - Stir over medium heat until sugar is dissolved
 
 Q: Honey Syrup Recipe
@@ -22,133 +22,99 @@ A:
 - ⅓ cup water
 - Stir over medium heat until integrated
 
-Q: Grenadine Recipe
-A:
-- 2 cups POM pomengranate juice
-- 1 cup sugar
-- 2 dashes orange flower water
-- Bring juice and sugar to just under a boil, reduce heat cook for 20 to 30 minutes
-- when it is thick enough to coat the back of a metal spoon, it's ready
-- let cool
-- add the orange blossom water and stir
+C: [Grenadine]:
+- [2 cups POM pomegranate juice]
+- [1 cup sugar]
+- [2 dashes orange flower water]
+- [bring juice and sugar to just under a boil]
+- [reduce heat, cook 20-30 minutes until it coats a spoon]
+- [let cool, add orange blossom water and stir]
 
-Q: Old-Fashioned Whiskey Cocktail Recipe
-A: 
-- sugar cube at the bottom of glass
-- saturate with 2 dashes Angostura bitters and warm watter
-- muddle until sugar dissolves
-- add 2 ounces bourbon or rye and stir
-- add one large piece of ice and stir 30 seconds
-- twist piece of orange zest over the drink, and drop into the glass
+C: [Old-Fashioned]:
+- [sugar cube]
+- [2 dashes Angostura bitters]
+- [warm water]
+- [muddle until sugar dissolves]
+- [2 ounces bourbon or rye]
+- [one large ice cube, stir 30 seconds]
+- [twist orange zest over drink and drop in]
 
-Q: Martini Recipe
-A:
-- 2¼ ounces gin
-- ¾ ounce dry vermouth
-- 1 dash orange bitters
-- combine in mixing glass filled with ice
-- stir for 30 seconds
-- strain into chilled coupe
-- express a lemon twist over the drink and drop into the glass
+C: [Martini]:
+- [2¼ ounces gin]
+- [¾ ounce dry vermouth]
+- [1 dash orange bitters]
+- [stir with ice 30 seconds, strain into chilled coupe]
+- [express lemon twist over drink and drop in]
 
-Q: Kangaroo Cocktail Recipe
-A:
-- 2¼ ounces vodka
-- ¾ ounce dry vermouth
-- 2 dashes orange bitters
-- combine in a mixing glass filled with ice and stir for 30 seconds
-- strain into a chilled coupe
+C: [Kangaroo]:
+- [2¼ ounces vodka]
+- [¾ ounce dry vermouth]
+- [2 dashes orange bitters]
+- [stir with ice 30 seconds, strain into chilled coupe]
 
-Q: Manhattan Cocktail Recipe
-A:
-- 2 ounces rye whiskey
-- 1 ounce sweet vermouth
-- 2 dashes Angostura bitters
-- combine in a mixing glass filled with ice and stir for 30 seconds
-- strain into a chilled coupe
-- garnish with a brandied cherry
+C: [Manhattan]:
+- [2 ounces rye whiskey]
+- [1 ounce sweet vermouth]
+- [2 dashes Angostura bitters]
+- [stir with ice 30 seconds, strain into chilled coupe]
+- [garnish with brandied cherry]
 
-Q: Rob Roy Cocktail Recipe
-A:
-- 2 ounces blended scotch
-- 1 ounce sweet vermouth
-- 2 dashes Angostura bitters
-- combine in a mixing glass filled with ice and stir for 30 seconds
-- strain into a chilled coupe
-- squeeze lemon twist and drop into glass
+C: [Rob Roy]:
+- [2 ounces blended scotch]
+- [1 ounce sweet vermouth]
+- [2 dashes Angostura bitters]
+- [stir with ice 30 seconds, strain into chilled coupe]
+- [squeeze lemon twist and drop in]
 
-Q: Boulevardier Cocktail Recipe
-A:
-- 1 ounce bourbon
-- 1 ounce sweet vermouth
-- 1 ounce campari
-- combine in rocks glass with one large piece of ice
-- stir for 30 seconds
-- squeeze orange twist over the drink and drop into the glass
+C: [Boulevardier]:
+- [1 ounce bourbon]
+- [1 ounce sweet vermouth]
+- [1 ounce Campari]
+- [stir in rocks glass with large ice 30 seconds]
+- [squeeze orange twist over drink and drop in]
 
-Q: Gin Fizz Recipe
-A:
-- 2 ounces gin
-- 1 ounce simple syrup
-- ¾ ounce lemon juice
-- combine in cocktail shaker with ice
-- shake 15 seconds
-- strain into rocks glass
-- top with 1 ounce soda water
+C: [Gin Fizz]:
+- [2 ounces gin]
+- [1 ounce simple syrup]
+- [¾ ounce lemon juice]
+- [shake with ice 15 seconds, strain into rocks glass]
+- [top with 1 ounce soda water]
 
-Q: Bee's Knees recipe
-A:
-- 2 ounces gin
-- ¾ ounce lemon juice
-- ½ ounce honey syrup
-- combine in cocktail shaker with ice
-- shake 15 seconds
-- strain into a chilled coupe
-- squeeze lemon twist over the drink and drop into the glass
+C: [Bee's Knees]:
+- [2 ounces gin]
+- [¾ ounce lemon juice]
+- [½ ounce honey syrup]
+- [shake with ice 15 seconds, strain into chilled coupe]
+- [squeeze lemon twist over drink and drop in]
 
-Q: The Business Cocktail Recipe
-A:
-- 2 ounces gin
-- 1 ounce lime juice
-- ¾ ounce rich honey syrup
-- Combine in cocktail shaker with ice
-- shake 15 seconds
-- strain into a chilled coupe
-- squeeze lemon twist over the drink and drop into the glass
+C: [The Business]:
+- [2 ounces gin]
+- [1 ounce lime juice]
+- [¾ ounce rich honey syrup]
+- [shake with ice 15 seconds, strain into chilled coupe]
+- [squeeze lemon twist over drink and drop in]
 
-Q: Whiskey Sour Recipe
-A: 
-- 2 ounces bourbon
-- ¾ ounce rich simple syrup
-- ¾ ounce lemon juice
-- Combine in cocktail shaker with ice
-- shake 15 seconds
-- strain into rocks glass
+C: [Whiskey Sour]:
+- [2 ounces bourbon]
+- [¾ ounce rich simple syrup]
+- [¾ ounce lemon juice]
+- [shake with ice 15 seconds, strain into rocks glass]
 
-Q: Gold Rush Cocktail Recipe
-A:
-- 2 ounces bourbon
-- ¾ ounce rich honey syrup
-- ¾ ounce lemon juice
-- Combine in cocktail shaker with ice
-- shake 15 seconds
-- strain into rocks glass over one large piece of ice
+C: [Gold Rush]:
+- [2 ounces bourbon]
+- [¾ ounce rich honey syrup]
+- [¾ ounce lemon juice]
+- [shake with ice 15 seconds, strain into rocks glass over large ice]
 
-Q: Daiquiri Recipe
-A:
-- 2 ounces white rum
-- 1 ounce simple syrup
-- ¾ lime juice
-- Combine in cocktail shaker with ice
-- shake 15 seconds
-- Garnish with lime wheel 
+C: [Daiquiri]:
+- [2 ounces white rum]
+- [1 ounce simple syrup]
+- [¾ ounce lime juice]
+- [shake with ice 15 seconds]
+- [garnish with lime wheel]
 
-Q: Gin and Tonic Recipe
-A:
-- 1½ ounces dry gin
-- 2 to 4 ounces tonic water
-- pour gin in highball glass
-- fill glass with ice
-- top with tonic water
-- stir briefly
-- squeeze lime wedge over drink and drop into the glass
+C: [Gin and Tonic]:
+- [1½ ounces dry gin]
+- [2-4 ounces tonic water]
+- [pour gin in highball, fill with ice, top with tonic, stir briefly]
+- [squeeze lime wedge over drink and drop in]
