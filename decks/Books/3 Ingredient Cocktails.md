@@ -26,15 +26,14 @@ C: [Grenadine]:
 - [2 cups POM pomegranate juice]
 - [1 cup sugar]
 - [2 dashes orange flower water]
-- [bring juice and sugar to just under a boil]
+- [combine in pot and bring to just under a boil]
 - [reduce heat, cook 20-30 minutes until it coats a spoon]
 - [let cool, add orange blossom water and stir]
 
 C: [Old-Fashioned]:
 - [sugar cube]
 - [2 dashes Angostura bitters]
-- [warm water]
-- [muddle until sugar dissolves]
+- [add warm water and muddle until sugar dissolves]
 - [2 ounces bourbon or rye]
 - [one large ice cube, stir 30 seconds]
 - [twist orange zest over drink and drop in]
@@ -115,6 +114,7 @@ C: [Daiquiri]:
 
 C: [Gin and Tonic]:
 - [1½ ounces dry gin]
-- [2-4 ounces tonic water]
-- [pour gin in highball, fill with ice, top with tonic, stir briefly]
+- [pour gin in highball, fill with ice]
+- [top with 2-4 ounces tonic water]
+- [stir briefly]
 - [squeeze lime wedge over drink and drop in]
