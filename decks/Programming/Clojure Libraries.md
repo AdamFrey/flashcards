@@ -262,8 +262,14 @@ A: dbxray
 Q: dbxray
 A: db schema introspection
 
-Q: graph computations
+Q: donut graph computations
 A: graphputer
 
 Q: graphputer
-A: graph computations
+A: donut graph computations
+
+Q: Unit systems for Clojure
+A: teodorlu/munit
+
+Q: teodorlu/munit
+A: Unit systems for Clojure
