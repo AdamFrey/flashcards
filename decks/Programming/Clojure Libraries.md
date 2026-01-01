@@ -88,9 +88,6 @@ A: jsonista
 Q: jsonista
 A: fast JSON
 
-Q: JSON encoding
-A: cheshire
-
 Q: cheshire
 A: JSON encoding
 
@@ -273,3 +270,15 @@ A: teodorlu/munit
 
 Q: teodorlu/munit
 A: Unit systems for Clojure
+
+Q: clojure lib: domino
+A: DAG dataflow engine
+
+Q: DAG dataflow engine
+A: domino
+
+Q: Postgres event stream handling
+A: Muutos
+
+Q: Muutos
+A: Postgres event stream handling
