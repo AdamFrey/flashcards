@@ -30,91 +30,334 @@ C: [Grenadine]:
 - [reduce heat, cook 20-30 minutes until it coats a spoon]
 - [let cool, add orange blossom water and stir]
 
-C: [Old-Fashioned]:
-- [sugar cube]
-- [2 dashes Angostura bitters]
-- [add warm water and muddle until sugar dissolves]
-- [2 ounces bourbon or rye]
-- [one large ice cube, stir 30 seconds]
-- [twist orange zest over drink and drop in]
+Q: Old-Fashioned prep vessel
+A: rocks glass (built in glass)
 
-C: [Martini]:
-- [2¼ ounces gin]
-- [¾ ounce dry vermouth]
-- [1 dash orange bitters]
-- [stir with ice 30 seconds, strain into chilled coupe]
-- [express lemon twist over drink and drop in]
+Q: Old-Fashioned drink vessel
+A: rocks glass
 
-C: [Kangaroo]:
-- [2¼ ounces vodka]
-- [¾ ounce dry vermouth]
-- [2 dashes orange bitters]
-- [stir with ice 30 seconds, strain into chilled coupe]
+Q: Old-Fashioned: shake or stir?
+A: stir 30 seconds
 
-C: [Manhattan]:
-- [2 ounces rye whiskey]
-- [1 ounce sweet vermouth]
-- [2 dashes Angostura bitters]
-- [stir with ice 30 seconds, strain into chilled coupe]
-- [garnish with brandied cherry]
+Q: Old-Fashioned garnish
+A: orange zest twist
 
-C: [Rob Roy]:
-- [2 ounces blended scotch]
-- [1 ounce sweet vermouth]
-- [2 dashes Angostura bitters]
-- [stir with ice 30 seconds, strain into chilled coupe]
-- [squeeze lemon twist and drop in]
+Q: Old-Fashioned ingredients
+A:
+- sugar cube
+- 2 dashes Angostura bitters
+- warm water (to muddle)
+- 2 ounces bourbon or rye
+- orange zest garnish
 
-C: [Boulevardier]:
-- [1 ounce bourbon]
-- [1 ounce sweet vermouth]
-- [1 ounce Campari]
-- [stir in rocks glass with large ice 30 seconds]
-- [squeeze orange twist over drink and drop in]
+Q: Name the drink:
+- sugar cube
+- 2 dashes Angostura bitters
+- warm water (to muddle)
+- 2 ounces bourbon or rye
+- orange zest garnish
+A: Old-Fashioned
 
-C: [Gin Fizz]:
-- [2 ounces gin]
-- [1 ounce simple syrup]
-- [¾ ounce lemon juice]
-- [shake with ice 15 seconds, strain into rocks glass]
-- [top with 1 ounce soda water]
+Q: Martini prep vessel
+A: cocktail shaker with ice
 
-C: [Bee's Knees]:
-- [2 ounces gin]
-- [¾ ounce lemon juice]
-- [½ ounce honey syrup]
-- [shake with ice 15 seconds, strain into chilled coupe]
-- [squeeze lemon twist over drink and drop in]
+Q: Martini drink vessel
+A: chilled coupe glass
 
-C: [The Business]:
-- [2 ounces gin]
-- [1 ounce lime juice]
-- [¾ ounce rich honey syrup]
-- [shake with ice 15 seconds, strain into chilled coupe]
-- [squeeze lemon twist over drink and drop in]
+Q: Martini: shake or stir?
+A: stir 30 seconds
 
-C: [Whiskey Sour]:
-- [2 ounces bourbon]
-- [¾ ounce rich simple syrup]
-- [¾ ounce lemon juice]
-- [shake with ice 15 seconds, strain into rocks glass]
+Q: Martini garnish
+A: lemon twist
 
-C: [Gold Rush]:
-- [2 ounces bourbon]
-- [¾ ounce rich honey syrup]
-- [¾ ounce lemon juice]
-- [shake with ice 15 seconds, strain into rocks glass over large ice]
+Q: Martini ingredients
+A:
+- 2¼ ounces gin
+- ¾ ounce dry vermouth
+- 1 dash orange bitters
+- lemon twist garnish
 
-C: [Daiquiri]:
-- [2 ounces white rum]
-- [1 ounce simple syrup]
-- [¾ ounce lime juice]
-- [shake with ice 15 seconds]
-- [garnish with lime wheel]
+Q: Name the drink:
+- 2¼ ounces gin
+- ¾ ounce dry vermouth
+- 1 dash orange bitters
+- lemon twist garnish
+A: Martini
 
-C: [Gin and Tonic]:
-- [1½ ounces dry gin]
-- [pour gin in highball, fill with ice]
-- [top with 2-4 ounces tonic water]
-- [stir briefly]
-- [squeeze lime wedge over drink and drop in]
+Q: Kangaroo prep vessel
+A: cocktail shaker with ice
+
+Q: Kangaroo drink vessel
+A: chilled coupe
+
+Q: Kangaroo: shake or stir?
+A: stir 30 seconds
+
+Q: Kangaroo garnish
+A: None
+
+Q: Kangaroo ingredients
+A:
+- 2¼ ounces vodka
+- ¾ ounce dry vermouth
+- 2 dashes orange bitters
+
+Q: Name the drink:
+- 2¼ ounces vodka
+- ¾ ounce dry vermouth
+- 2 dashes orange bitters
+A: Kangaroo
+
+Q: Manhattan prep vessel
+A: cocktail shaker with ice
+
+Q: Manhattan drink vessel
+A: chilled coupe
+
+Q: Manhattan: shake or stir?
+A: stir 30 seconds
+
+Q: Manhattan garnish
+A: brandied cherry
+
+Q: Manhattan ingredients
+A:
+- 2 ounces rye whiskey
+- 1 ounce sweet vermouth
+- 2 dashes Angostura bitters
+- brandied cherry garnish
+
+Q: Name the drink:
+- 2 ounces rye whiskey
+- 1 ounce sweet vermouth
+- 2 dashes Angostura bitters
+- brandied cherry garnish
+A: Manhattan
+
+Q: Rob Roy prep vessel
+A: cocktail shaker with ice
+
+Q: Rob Roy drink vessel
+A: chilled coupe
+
+Q: Rob Roy: shake or stir?
+A: stir 30 seconds
+
+Q: Rob Roy garnish
+A: lemon twist
+
+Q: Rob Roy ingredients
+A:
+- 2 ounces blended scotch
+- 1 ounce sweet vermouth
+- 2 dashes Angostura bitters
+- lemon twist garnish
+
+Q: Name the drink:
+- 2 ounces blended scotch
+- 1 ounce sweet vermouth
+- 2 dashes Angostura bitters
+- lemon twist garnish
+A: Rob Roy
+
+Q: Boulevardier prep vessel
+A: rocks glass (built in glass)
+
+Q: Boulevardier drink vessel
+A: rocks glass with large ice
+
+Q: Boulevardier: shake or stir?
+A: stir 30 seconds
+
+Q: Boulevardier garnish
+A: orange twist
+
+Q: Boulevardier ingredients
+A:
+- 1 ounce bourbon
+- 1 ounce sweet vermouth
+- 1 ounce Campari
+- orange twist garnish
+
+Q: Name the drink:
+- 1 ounce bourbon
+- 1 ounce sweet vermouth
+- 1 ounce Campari
+- orange twist garnish
+A: Boulevardier
+
+Q: Gin Fizz prep vessel
+A: cocktail shaker with ice
+
+Q: Gin Fizz drink vessel
+A: rocks glass
+
+Q: Gin Fizz: shake or stir?
+A: shake 15 seconds
+
+Q: Gin Fizz garnish
+A: None
+
+Q: Gin Fizz ingredients
+A:
+- 2 ounces gin
+- 1 ounce simple syrup
+- ¾ ounce lemon juice
+- 1 ounce soda water (top)
+
+Q: Name the drink:
+- 2 ounces gin
+- 1 ounce simple syrup
+- ¾ ounce lemon juice
+- 1 ounce soda water (top)
+A: Gin Fizz
+
+Q: Bee's Knees prep vessel
+A: cocktail shaker with ice
+
+Q: Bee's Knees drink vessel
+A: chilled coupe
+
+Q: Bee's Knees: shake or stir?
+A: shake 15 seconds
+
+Q: Bee's Knees garnish
+A: lemon twist
+
+Q: Bee's Knees ingredients
+A:
+- 2 ounces gin
+- ¾ ounce lemon juice
+- ½ ounce honey syrup
+- lemon twist garnish
+
+Q: Name the drink:
+- 2 ounces gin
+- ¾ ounce lemon juice
+- ½ ounce honey syrup
+- lemon twist garnish
+A: Bee's Knees
+
+Q: The Business prep vessel
+A: cocktail shaker with ice
+
+Q: The Business drink vessel
+A: chilled coupe
+
+Q: The Business: shake or stir?
+A: shake 15 seconds
+
+Q: The Business garnish
+A: lemon twist
+
+Q: The Business ingredients
+A:
+- 2 ounces gin
+- 1 ounce lime juice
+- ¾ ounce rich honey syrup
+- lemon twist garnish
+
+Q: Name the drink:
+- 2 ounces gin
+- 1 ounce lime juice
+- ¾ ounce rich honey syrup
+- lemon twist garnish
+A: The Business
+
+Q: Whiskey Sour prep vessel
+A: cocktail shaker with ice
+
+Q: Whiskey Sour drink vessel
+A: rocks glass
+
+Q: Whiskey Sour: shake or stir?
+A: shake 15 seconds
+
+Q: Whiskey Sour garnish
+A: None
+
+Q: Whiskey Sour ingredients
+A:
+- 2 ounces bourbon
+- ¾ ounce rich simple syrup
+- ¾ ounce lemon juice
+
+Q: Name the drink:
+- 2 ounces bourbon
+- ¾ ounce rich simple syrup
+- ¾ ounce lemon juice
+A: Whiskey Sour
+
+Q: Gold Rush prep vessel
+A: cocktail shaker with ice
+
+Q: Gold Rush drink vessel
+A: rocks glass over large ice
+
+Q: Gold Rush: shake or stir?
+A: shake 15 seconds
+
+Q: Gold Rush garnish
+A: None
+
+Q: Gold Rush ingredients
+A:
+- 2 ounces bourbon
+- ¾ ounce rich honey syrup
+- ¾ ounce lemon juice
+
+Q: Name the drink:
+- 2 ounces bourbon
+- ¾ ounce rich honey syrup
+- ¾ ounce lemon juice
+A: Gold Rush
+
+Q: Daiquiri prep vessel
+A: cocktail shaker with ice
+
+Q: Daiquiri drink vessel
+A: chilled coupe
+
+Q: Daiquiri: shake or stir?
+A: shake 15 seconds
+
+Q: Daiquiri garnish
+A: lime wheel
+
+Q: Daiquiri ingredients
+A:
+- 2 ounces white rum
+- 1 ounce simple syrup
+- ¾ ounce lime juice
+- lime wheel garnish
+
+Q: Name the drink:
+- 2 ounces white rum
+- 1 ounce simple syrup
+- ¾ ounce lime juice
+- lime wheel garnish
+A: Daiquiri
+
+Q: Gin and Tonic prep vessel
+A: highball glass (built in glass)
+
+Q: Gin and Tonic drink vessel
+A: highball glass with ice
+
+Q: Gin and Tonic: shake or stir?
+A: stir briefly
+
+Q: Gin and Tonic garnish
+A: lime wedge
+
+Q: Gin and Tonic ingredients
+A:
+- 1½ ounces dry gin
+- 2-4 ounces tonic water
+- lime wedge garnish
+
+Q: Name the drink:
+- 1½ ounces dry gin
+- 2-4 ounces tonic water
+- lime wedge garnish
+A: Gin and Tonic

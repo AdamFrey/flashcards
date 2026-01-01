@@ -42,10 +42,30 @@ A:
 - 1 1/2 oz Irish Whiskey
 - whipped cream
 
-Q: Recipe for Bourbon Ginger Fizz
-A:
+Q: Bourbon Ginger Fizz prep vessel
+A: cocktail shaker with ice
+
+Q: Bourbon Ginger Fizz drink vessel
+A: highball glass with ice
+
+Q: Bourbon Ginger Fizz: shake or stir?
+A: shake 15 seconds
+
+Q: Bourbon Ginger Fizz garnish
+A: lemon twist
+
+Q: Bourbon Ginger Fizz ingredients
+A: 
 - 1.5 oz bourbon
 - 5 dashes orange bitters
 - 1 oz ginger simple syrup
 - ginger ale to top
 - lemon twist
+
+Q: Name the drink:
+- 1.5 oz bourbon
+- 5 dashes orange bitters
+- 1 oz ginger simple syrup
+- ginger ale to top
+- lemon twist
+A: Bourbon Ginger Fizz
