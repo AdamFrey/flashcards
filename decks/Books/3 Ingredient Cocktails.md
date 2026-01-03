@@ -45,17 +45,18 @@ A: orange zest twist
 Q: Old-Fashioned ingredients
 A:
 - sugar cube
-- 2 dashes Angostura bitters
+- Angostura bitters
 - warm water (to muddle)
-- 2 ounces bourbon or rye
+- bourbon or rye
 - orange zest garnish
+
+C: Old-Fashioned: [2] dashes [Angostura bitters]
+C: Old-Fashioned: [2] oz [bourbon or rye]
 
 Q: Name the drink:
 - sugar cube
-- 2 dashes Angostura bitters
-- warm water (to muddle)
-- 2 ounces bourbon or rye
-- orange zest garnish
+- Angostura bitters
+- bourbon or rye
 A: Old-Fashioned
 
 Q: Martini prep vessel
@@ -72,16 +73,20 @@ A: lemon twist
 
 Q: Martini ingredients
 A:
-- 2¼ ounces gin
-- ¾ ounce dry vermouth
-- 1 dash orange bitters
+- gin
+- dry vermouth
+- orange bitters
 - lemon twist garnish
 
+C: Martini: [2¼] oz [gin]
+C: Martini: [¾] oz [dry vermouth]
+C: Martini: [1] dash [orange bitters]
+C: Martini ratio: [3:1] gin to dry vermouth
+
 Q: Name the drink:
-- 2¼ ounces gin
-- ¾ ounce dry vermouth
-- 1 dash orange bitters
-- lemon twist garnish
+- gin
+- dry vermouth
+- orange bitters
 A: Martini
 
 Q: Kangaroo prep vessel
@@ -98,14 +103,19 @@ A: None
 
 Q: Kangaroo ingredients
 A:
-- 2¼ ounces vodka
-- ¾ ounce dry vermouth
-- 2 dashes orange bitters
+- vodka
+- dry vermouth
+- orange bitters
+
+C: Kangaroo: [2¼] oz [vodka]
+C: Kangaroo: [¾] oz [dry vermouth]
+C: Kangaroo: [2] dashes [orange bitters]
+C: Kangaroo ratio: [3:1] vodka to dry vermouth
 
 Q: Name the drink:
-- 2¼ ounces vodka
-- ¾ ounce dry vermouth
-- 2 dashes orange bitters
+- vodka
+- dry vermouth
+- orange bitters
 A: Kangaroo
 
 Q: Manhattan prep vessel
@@ -122,16 +132,20 @@ A: brandied cherry
 
 Q: Manhattan ingredients
 A:
-- 2 ounces rye whiskey
-- 1 ounce sweet vermouth
-- 2 dashes Angostura bitters
+- rye whiskey
+- sweet vermouth
+- Angostura bitters
 - brandied cherry garnish
 
+C: Manhattan: [2] oz [rye whiskey]
+C: Manhattan: [1] oz [sweet vermouth]
+C: Manhattan: [2] dashes [Angostura bitters]
+C: Manhattan ratio: [2:1] rye to sweet vermouth
+
 Q: Name the drink:
-- 2 ounces rye whiskey
-- 1 ounce sweet vermouth
-- 2 dashes Angostura bitters
-- brandied cherry garnish
+- rye whiskey
+- sweet vermouth
+- Angostura bitters
 A: Manhattan
 
 Q: Rob Roy prep vessel
@@ -148,16 +162,20 @@ A: lemon twist
 
 Q: Rob Roy ingredients
 A:
-- 2 ounces blended scotch
-- 1 ounce sweet vermouth
-- 2 dashes Angostura bitters
+- blended scotch
+- sweet vermouth
+- Angostura bitters
 - lemon twist garnish
 
+C: Rob Roy: [2] oz [blended scotch]
+C: Rob Roy: [1] oz [sweet vermouth]
+C: Rob Roy: [2] dashes [Angostura bitters]
+C: Rob Roy ratio: [2:1] scotch to sweet vermouth
+
 Q: Name the drink:
-- 2 ounces blended scotch
-- 1 ounce sweet vermouth
-- 2 dashes Angostura bitters
-- lemon twist garnish
+- blended scotch
+- sweet vermouth
+- Angostura bitters
 A: Rob Roy
 
 Q: Boulevardier prep vessel
@@ -174,16 +192,20 @@ A: orange twist
 
 Q: Boulevardier ingredients
 A:
-- 1 ounce bourbon
-- 1 ounce sweet vermouth
-- 1 ounce Campari
+- bourbon
+- sweet vermouth
+- Campari
 - orange twist garnish
 
+C: Boulevardier: [1] oz bourbon
+C: Boulevardier: [1] oz sweet vermouth
+C: Boulevardier: [1] oz Campari
+C: Boulevardier ratio: [1:1:1] bourbon, sweet vermouth, Campari
+
 Q: Name the drink:
-- 1 ounce bourbon
-- 1 ounce sweet vermouth
-- 1 ounce Campari
-- orange twist garnish
+- bourbon
+- sweet vermouth
+- Campari
 A: Boulevardier
 
 Q: Gin Fizz prep vessel
@@ -200,16 +222,21 @@ A: None
 
 Q: Gin Fizz ingredients
 A:
-- 2 ounces gin
-- 1 ounce simple syrup
-- ¾ ounce lemon juice
-- 1 ounce soda water (top)
+- gin
+- simple syrup
+- lemon juice
+- soda water (top)
+
+C: Gin Fizz: [2] oz [gin]
+C: Gin Fizz: [1] oz [simple syrup]
+C: Gin Fizz: [¾] oz [lemon juice]
+C: Gin Fizz: [1] oz [soda water] (top)
 
 Q: Name the drink:
-- 2 ounces gin
-- 1 ounce simple syrup
-- ¾ ounce lemon juice
-- 1 ounce soda water (top)
+- gin
+- simple syrup
+- lemon juice
+- soda water
 A: Gin Fizz
 
 Q: Bee's Knees prep vessel
@@ -226,16 +253,19 @@ A: lemon twist
 
 Q: Bee's Knees ingredients
 A:
-- 2 ounces gin
-- ¾ ounce lemon juice
-- ½ ounce honey syrup
+- gin
+- lemon juice
+- honey syrup
 - lemon twist garnish
 
+C: Bee's Knees: [2] oz [gin]
+C: Bee's Knees: [¾] oz [lemon juice]
+C: Bee's Knees: [½] oz [honey syrup]
+
 Q: Name the drink:
-- 2 ounces gin
-- ¾ ounce lemon juice
-- ½ ounce honey syrup
-- lemon twist garnish
+- gin
+- lemon juice
+- honey syrup
 A: Bee's Knees
 
 Q: The Business prep vessel
@@ -252,16 +282,19 @@ A: lemon twist
 
 Q: The Business ingredients
 A:
-- 2 ounces gin
-- 1 ounce lime juice
-- ¾ ounce rich honey syrup
+- gin
+- lime juice
+- rich honey syrup
 - lemon twist garnish
 
+C: The Business: [2] oz [gin]
+C: The Business: [1] oz [lime juice]
+C: The Business: [¾] oz [rich honey syrup]
+
 Q: Name the drink:
-- 2 ounces gin
-- 1 ounce lime juice
-- ¾ ounce rich honey syrup
-- lemon twist garnish
+- gin
+- lime juice
+- rich honey syrup
 A: The Business
 
 Q: Whiskey Sour prep vessel
@@ -278,14 +311,18 @@ A: None
 
 Q: Whiskey Sour ingredients
 A:
-- 2 ounces bourbon
-- ¾ ounce rich simple syrup
-- ¾ ounce lemon juice
+- bourbon
+- rich simple syrup
+- lemon juice
+
+C: Whiskey Sour: [2] oz [bourbon]
+C: Whiskey Sour: [¾] oz rich simple syrup
+C: Whiskey Sour: [¾] oz lemon juice
 
 Q: Name the drink:
-- 2 ounces bourbon
-- ¾ ounce rich simple syrup
-- ¾ ounce lemon juice
+- bourbon
+- rich simple syrup
+- lemon juice
 A: Whiskey Sour
 
 Q: Gold Rush prep vessel
@@ -302,14 +339,18 @@ A: None
 
 Q: Gold Rush ingredients
 A:
-- 2 ounces bourbon
-- ¾ ounce rich honey syrup
-- ¾ ounce lemon juice
+- bourbon
+- rich honey syrup
+- lemon juice
+
+C: Gold Rush: [2] oz [bourbon]
+C: Gold Rush: [¾] oz rich honey syrup
+C: Gold Rush: [¾] oz lemon juice
 
 Q: Name the drink:
-- 2 ounces bourbon
-- ¾ ounce rich honey syrup
-- ¾ ounce lemon juice
+- bourbon
+- rich honey syrup
+- lemon juice
 A: Gold Rush
 
 Q: Daiquiri prep vessel
@@ -326,16 +367,19 @@ A: lime wheel
 
 Q: Daiquiri ingredients
 A:
-- 2 ounces white rum
-- 1 ounce simple syrup
-- ¾ ounce lime juice
+- white rum
+- simple syrup
+- lime juice
 - lime wheel garnish
 
+C: Daiquiri: [2] oz [white rum]
+C: Daiquiri: [1] oz [simple syrup]
+C: Daiquiri: [¾] oz [lime juice]
+
 Q: Name the drink:
-- 2 ounces white rum
-- 1 ounce simple syrup
-- ¾ ounce lime juice
-- lime wheel garnish
+- white rum
+- simple syrup
+- lime juice
 A: Daiquiri
 
 Q: Gin and Tonic prep vessel
@@ -352,12 +396,14 @@ A: lime wedge
 
 Q: Gin and Tonic ingredients
 A:
-- 1½ ounces dry gin
-- 2-4 ounces tonic water
+- dry gin
+- tonic water
 - lime wedge garnish
 
+C: Gin and Tonic: [1½] oz [dry gin]
+C: Gin and Tonic: [2-4] oz [tonic water]
+
 Q: Name the drink:
-- 1½ ounces dry gin
-- 2-4 ounces tonic water
-- lime wedge garnish
+- dry gin
+- tonic water
 A: Gin and Tonic
