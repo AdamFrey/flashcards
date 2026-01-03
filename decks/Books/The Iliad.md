@@ -62,7 +62,7 @@ C: In The Iliad, [Achilles] fights the river god [Scamander]
 
 C: In The Iliad, Neptune/Poseidon supports [the Greeks].
 
-C: In The Iliad, [Diana/Artemis] is [Apollo]'s sister and also supports the [Trojans]
+C: In The Iliad, Diana/Artemis supports the [Trojans]
 
 C: In The Iliad, [Apollo] gives [Hector] supernatural strength at times
 
