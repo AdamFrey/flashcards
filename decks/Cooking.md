@@ -91,16 +91,6 @@ A:
 Q: What is the first step to prepare a braise or stew?
 A: Season the meat with salt and pepper, preferably a day in advance
 
-Q: What two things distinguish a braise from a stew?
-A: 
-- Larger pieces of meat, typically still on the bone
-- less liquid
-
-Q: What two things distinguish a stew from a braise?
-A: 
-- Smaller pieces of meat, often chunked
-- more liquid
-
 C: Scraping up crusty brown bits stuck to the bottom of the pan is called [deglazing].
 
 C: Alice Waters says "chicken stock works with [any meat] and [even some fish]"

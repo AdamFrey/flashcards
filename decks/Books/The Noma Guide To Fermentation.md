@@ -38,7 +38,7 @@ Q: Kickstarting new ferment batch with some of last is called:
 A: Backslopping
 
 Q: To sanitize ceramic, glass and metal containers and utensils
-A: Bake in oven for 2 hours and 320 Farenheit
+A: Bake in oven for 2 hours at 325 Farenheit
 
 C: C. Botulinum cannot survive at a sustained temperature of [140F].
 

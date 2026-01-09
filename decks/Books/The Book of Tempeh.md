@@ -16,15 +16,6 @@ A: Stronger slices
 Q: Red miso ingredients
 A: soybeans, rice, salt
 
-Q: Coriander Garlic Tempeh Recipe
-A:
-- crush one clove garlic in mortar
-- add 1/2 tsp of ground coriander
-- add 1 tsp salt
-- add mix to bowl of 1/2 cup water
-- dip tempeh slices in water
-- pat with paper towels
-
 Q: Tempeh thickness in ziplock bags
 A: 1/2 to 1 inch thick
 
