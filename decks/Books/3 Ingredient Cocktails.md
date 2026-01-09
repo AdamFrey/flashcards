@@ -22,13 +22,22 @@ A:
 - ⅓ cup water
 - Stir over medium heat until integrated
 
-C: [Grenadine]:
-- [2 cups POM pomegranate juice]
-- [1 cup sugar]
-- [2 dashes orange flower water]
-- [combine in pot and bring to just under a boil]
-- [reduce heat, cook 20-30 minutes until it coats a spoon]
-- [let cool, add orange blossom water and stir]
+Q: Grenadine Ingredients:
+A:
+- POM juice
+- sugar
+- orange blossom water
+- pomegranate molasses
+
+Q: How long to make Pomengranate Syrup over low heat?
+A: 20-30 minutes (until it coats a spoon)
+
+C: Grenadine ratio: [2:1] POM juice to sugar
+
+Q: What to add to pomegranate syrup to make Grenadine?
+A: 
+- orange blossom water 
+- pomegranate molasses
 
 Q: Old-Fashioned prep vessel
 A: rocks glass (built in glass)

@@ -34,13 +34,38 @@ A: 3-5 minutes
 Q: What is the steep time for herbal tea?
 A: 5-8 minutes
 
-Q: Recipe for Irish Coffee
+Q: Irish Coffee prep vessel
+A: Irish coffee glass (built in glass)
+
+Q: Irish Coffee drink vessel
+A: Irish coffee glass
+
+Q: Irish Coffee: shake or stir?
+A: stir
+
+Q: Irish Coffee garnish
+A: whipped cream
+
+Q: Irish Coffee ingredients
 A:
-- 6 oz hot coffee
-- 1 tsp granulated sugar
-- 1 tsp brown sugar
-- 1 1/2 oz Irish Whiskey
+- hot coffee
+- granulated sugar
+- brown sugar
+- Irish Whiskey
 - whipped cream
+
+C: Irish Coffee: [6] oz [hot coffee]
+C: Irish Coffee: [1] tsp granulated sugar
+C: Irish Coffee: [1] tsp brown sugar
+C: Irish Coffee: [1½] oz [Irish Whiskey]
+
+Q: Name the drink:
+- hot coffee
+- granulated sugar
+- brown sugar
+- Irish Whiskey
+- whipped cream
+A: Irish Coffee
 
 Q: Bourbon Ginger Fizz prep vessel
 A: cocktail shaker with ice
@@ -55,17 +80,20 @@ Q: Bourbon Ginger Fizz garnish
 A: lemon twist
 
 Q: Bourbon Ginger Fizz ingredients
-A: 
-- 1.5 oz bourbon
-- 5 dashes orange bitters
-- 1 oz ginger simple syrup
-- ginger ale to top
-- lemon twist
+A:
+- bourbon
+- orange bitters
+- ginger simple syrup
+- ginger ale
+- lemon twist garnish
+
+C: Bourbon Ginger Fizz: [1½] oz [bourbon]
+C: Bourbon Ginger Fizz: [5] dashes [orange bitters]
+C: Bourbon Ginger Fizz: [1] oz [ginger simple syrup]
 
 Q: Name the drink:
-- 1.5 oz bourbon
-- 5 dashes orange bitters
-- 1 oz ginger simple syrup
-- ginger ale to top
-- lemon twist
+- bourbon
+- orange bitters
+- ginger simple syrup
+- ginger ale
 A: Bourbon Ginger Fizz
