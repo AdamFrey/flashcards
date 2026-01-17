@@ -23,3 +23,6 @@ A:
 - Broccoli
 - Asparagus
 - Dark Chocolate
+
+Q: What's Peter Attia's Apo-B target? (ep #202)
+A: 60 mg/dl
