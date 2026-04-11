@@ -36,3 +36,9 @@ Artifact Creature - [Construct]
 [When this creature enters], you may [cast target instant card from your graveyard without paying its mana cost]. [If that spell would be put into your graveyard, exile it instead].
 
 P/T [5/6]
+
+Q: Magic format for five players
+A: Star Magic
+
+Q: Win condition for star magic
+A: You win when the two players opposite you both lose

@@ -282,3 +282,19 @@ A: Muutos
 
 Q: Muutos
 A: Postgres event stream handling
+
+C: in robertluo/fun-map `fw` stands for [function wrapper]. 
+
+Q: clojure lib: Willa
+A: Onyx-like Kafka Streams
+
+Q: Kafka Streams library inspired by Onyx
+A: Willa
+
+Q: clojure lib: jackdaw
+A: Kafka API
+
+Q: Kafka API Library
+A: Jackdaw
+
+

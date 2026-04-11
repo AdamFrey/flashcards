@@ -2,7 +2,7 @@ Q: tempeh mold name
 A: Rhizopus Oligosporus
 
 Q: Tempeh percent protein
-A: 19-20%
+A: 20%
 
 Q: what is a presscake?
 A: the puck left over after oil extraction

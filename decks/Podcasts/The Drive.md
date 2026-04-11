@@ -5,12 +5,6 @@ C: GLP-1 stands for [Glucagon-Like Peptide-1]
 
 C: The US spends $[4 trillion] annually on healthcare
 
-Q: US healthcare spending payer breakdown
-A: 
-- $1 trillion consumers
-- $1 trillion employers
-- $2 trillion state and federal governments
-
 Q: Percentage of US healthcare spending on administrative costs
 A: 10-15%
 
@@ -26,3 +20,24 @@ A:
 
 Q: What's Peter Attia's Apo-B target? (ep #202)
 A: 60 mg/dl
+
+C: Increasing [saturated] fat intake [increases] [LDL] Cholesterol
+
+C: Increasing [PUFAs] [decreases] [LDL] Cholesterol
+
+Q: PUFA acroynum
+A: Polyunsaturated Fatty Acid
+
+C: Omega-3 and Omega-6 Fatty Acids are examples of [PUFAs]
+
+Q: PUFA in Fatty fish
+A: Omega-3 Fatty Acid
+
+Q: PUFA in Flaxseed
+A: Omega-3 Fatty Acid
+
+Q: PUFA in Eggs
+A: Omega-6 Fatty Acid
+
+Q: PUFA in Vegetable Oils
+A: Omega-6 Fatty Acid
