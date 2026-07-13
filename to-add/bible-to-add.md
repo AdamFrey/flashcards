@@ -30,9 +30,6 @@ C: And when you pray, you must not be like the hypocrites. For they love [to sta
 C: The prayer of a righteous person has [great power as it is working].
 — [James] [5]:[16]
 
-C: And when you fast, do not look gloomy like [the hypocrites], for they [disfigure their faces] that their fasting may be seen by others. But when you fast, [anoint your head and wash your face], that your fasting may not be seen by others but by [your Father who is in secret].
-— [Matthew] [6]:[16-18]
-
 C: The days will come when [the bridegroom is taken away from them], and then [they will fast].
 — [Matthew] [9]:[15]
 

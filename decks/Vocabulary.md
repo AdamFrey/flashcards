@@ -177,3 +177,6 @@ A: naturally accompanying or associated
 
 Q: deadhead (transport)
 A: movement of crew member of vechicle to position for next assignment.
+
+Q: putative
+A: commonly accepted or presumed

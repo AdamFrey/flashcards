@@ -64,3 +64,9 @@ A: "the active life"
 
 Q: "the active life", in Greek
 A: `praktikos`
+
+Q: "saints", in Greek
+A: `agioi`
+
+Q: `agioi`, meaning
+A: "saints"
