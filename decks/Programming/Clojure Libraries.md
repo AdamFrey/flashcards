@@ -58,12 +58,6 @@ A: sieppari
 Q: sieppari
 A: fast interceptors
 
-Q: schema validation
-A: malli
-
-Q: malli
-A: schema validation
-
 Q: term rewriting
 A: meander
 
