@@ -1,5 +1,3 @@
-# Gardening
-
 C: The average last spring frost date for Salisbury, MD is the [2nd week of April].
 
 C: 12 weeks before last frost in Salisbury, MD is the [3rd week of January].
