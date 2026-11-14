@@ -104,3 +104,6 @@ A:
 - Red Dye
 
 C: Saltpeter is [Potassium Nitrate].
+
+Q: who wrote Six Seasons Cookbook?
+A: Joshua McFadden
