@@ -28,8 +28,5 @@ A: 5 grams
 Q: Grams of protein per scoop of myprotein?
 A: 22 grams
 
-Q: Grams of protein in one Old Wisconsin Beef Snack Stick?
-A: 5 grams
-
 Q: Grams of protein in a banana?
 A: 1.5 grams
